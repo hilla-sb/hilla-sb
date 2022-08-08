@@ -12,7 +12,7 @@ passions : ['web develoment']
 ```
 Puedes encontrame en 🌎:
 - [LinkedIn](https://www.linkedin.com/in/hillary-segura-blanco-667544245/)
-[![hilla-sb github starts] (https://github-readme-stats.vercel.app/api?username=hilla-sb)](https://github.com/hilla-sb/github-readme-stats)
+- [![hilla-sb's github starts] (https://github-readme-stats.vercel.app/api?username=hilla-sb)](https://github.com/hilla-sb/github-readme-stats)
 
 <!--
 **hilla-sb/hilla-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
