@@ -16,6 +16,7 @@ passions : ['web develoment']
 - [LinkedIn](https://www.linkedin.com/in/hillary-segura-blanco-667544245/)
 
 [![hilla-sb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilla-sb)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hilla-sb&theme=highcontrast)](https://git.io/streak-stats)
 
 <!--
 **hilla-sb/hilla-sb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
