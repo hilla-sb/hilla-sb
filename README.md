@@ -1,6 +1,8 @@
 ### Hola soy Hillary👋💻
 
 ![Presentación diapositivas marca personal Natural y floral  Blanco y marrón](https://user-images.githubusercontent.com/93120011/183434472-67e85712-d7dd-41c9-afe7-1739cba5165f.png)
+
+## acerca de mi en codigo 🤓:
 ```js
 const Hillary ={
 pronuns : "She" | "Her"
@@ -10,7 +12,7 @@ tecnologies :'web',
 passions : ['web develoment']
 }
 ```
-Puedes encontrame en 🌎:
+## Puedes encontrame en 🌎:
 - [LinkedIn](https://www.linkedin.com/in/hillary-segura-blanco-667544245/)
 
 [![hilla-sb's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilla-sb)](https://github.com/anuraghazra/github-readme-stats)
