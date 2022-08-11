@@ -6,9 +6,9 @@
 ```js
 const Hillary ={
 pronuns : "She" | "Her"
-code: HTML , CSS , CSS3, SASS, Java Script , JSX ,  MYSQL
-Tools:React, Node.js , Expres, POstgres SQL, Heroku, UI, Boostrap,
-tecnologies :'web',
+code: HTML, CSS , CSS3, SASS, Java Script, JSX,  MYSQL
+Tools:React, Node.js, Expres, Postgres SQL, Heroku, UI, Boostrap,
+tecnologies :'web'
 passions : ['web develoment']
 }
 ```
